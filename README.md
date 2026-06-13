@@ -99,7 +99,7 @@ open dashboard/public/index.html
 | is_duplicate_image | SimHash near-duplicate detection |
 | price_below_market_pct | % deviation from category median |
 
-## Resume Bullets
+## Bullets
 
 > Built real-time listing fraud detection system (Java 21, Spring Boot 3, Kafka, Redis, PostgreSQL): async scoring pipeline, XGBoost ML model with SHAP explainability, Redis-cached seller reputation engine serving sub-10ms lookups
 
