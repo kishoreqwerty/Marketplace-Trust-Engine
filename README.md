@@ -7,6 +7,8 @@ A real-time listing fraud detection and seller trust scoring system for two-side
 Automatically scores every marketplace listing for fraud before buyers see it.
 When a seller posts → Kafka pipeline → XGBoost ML model scores it → result cached in Redis → flagged listings hit a human moderation queue.
 
+## ![Demo](docs/preview.png)
+
 ## Architecture
 
 ```
