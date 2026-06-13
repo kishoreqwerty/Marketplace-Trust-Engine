@@ -1,0 +1,10 @@
+{
+  "sellerId": "seller_1",
+  "title": "MacBook Pro 2023 M2 16GB",
+  "description": "Selling my MacBook Pro, barely used. Comes with original box and charger.",
+  "price": 1400,
+  "category": "electronics",
+  "condition": "like_new",
+  "locationCity": "Bellevue",
+  "locationState": "WA"
+}
